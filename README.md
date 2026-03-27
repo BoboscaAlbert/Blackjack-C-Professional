@@ -18,3 +18,6 @@ Proiect dezvoltat în C care simulează experiența jocului de Blackjack (21), p
 1. Se deschide fișierul `main.c` în orice compilator de C (recomandat Visual Studio).
 2. Se compilează și se rulează (Ctrl + F5 în Visual Studio).
 3. Se urmează instrucțiunile din consolă pentru a paria și a juca.
+
+
+<img width="1919" height="1028" alt="image" src="https://github.com/user-attachments/assets/6154d42f-6b37-47d9-a3b0-192b3f15c15f" />
